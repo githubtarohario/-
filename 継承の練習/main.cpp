@@ -21,8 +21,17 @@ public:
 
 	}
 	void bark() {
-		cout << "bark ";
+		cout << " ";
 	}
+
+
+	
+
+
+
+
+
+
 
 
 
